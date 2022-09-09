@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.burger{
+    text-align: center;
+    font-style: normal;
+    font-weight: bolder;
+    border-radius: 9px;
+    justify-content: right;
+    margin-left: 100px;
+    margin-bottom: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:ruby-base-container;
+    direction:rtl;
+}
+.burger:hover{
+    background-color: rgb(95, 95, 10);
+    pointer-events: visible;
+    cursor: pointer;
+
+}

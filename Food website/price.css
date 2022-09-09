@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.head{
+    
+    text-align: center;
+    background-color:black;
+    padding: 20px;
+    color: white;
+    image-rendering:left;
+    object-position: left;
+    font-weight: bolder;
+    
+        
+}
+.buttonsnack{
+    font-size:90%; 
+    font-weight: bolder ;
+    text-align: left;
+}
+
+.list{
+   
+    color: black;
+    padding: 15%;
+    
+}
+.buttonroll
+{
+    
+ font-size: 90%;
+ font-weight: bolder;
+ text-align: left;
+}
+.image1
+{
+    margin-left: 15px;
+    height: 45%;
+    width: 45%;
+}
+.image2
+{
+    
+    margin-left: 15px;
+    height: 45%;
+    width: 45%;
+    
+   
+}
+.image3
+    {
+height: 45%;
+width: 45%;
+padding: 5%;
+}
